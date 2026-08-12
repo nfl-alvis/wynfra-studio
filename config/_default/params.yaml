@@ -1,0 +1,24 @@
+title: "Wynfra Studio"
+description: "Experienced mobile and web applications and website builders measuring."
+images:
+  - "images/home/hero/bill-sitting.png"
+
+logo: "images/shared/logo.png"
+
+favicons:
+  themeColor: "#FFFFFF"
+  backgroundColor: "#FFFFFF"
+  faviconColor: "#000000"
+
+contact:
+  - "wynfra.studio@gmail.com"
+  - "+62 896 1690 4200"
+
+social:
+  dribbble: "#"
+  instagram: "https://www.instagram.com/wynfra.studio"
+  facebook: "https://www.facebook.com/share/1Ep45gti2E/"
+  twitter: "#"
+
+copyright: "© 2026 Wynfra Studio All Rights Reserved"
+

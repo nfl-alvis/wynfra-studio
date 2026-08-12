@@ -1,0 +1,15 @@
+enable: true
+
+items:
+
+- title: "Built for your ideas. Designed for your growth."
+  text: "At Wynfra Studio, we turn ideas into modern digital products. From landing pages to full web applications, we focus on clean design, smooth experiences, and reliable technology."
+  button:
+  label: "Our Services"
+  link: "#services"
+
+- title: "From concept to launch, we build it with you."
+  text: "We combine thoughtful design with solid development to create websites and digital experiences that are fast, responsive, and built around your goals."
+  button:
+  label: "Start a Project"
+  link: "#contact"

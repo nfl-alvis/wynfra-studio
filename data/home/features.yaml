@@ -1,0 +1,30 @@
+enable: true
+
+title: "Everything you need to build a better digital presence."
+text: "We combine thoughtful design, modern technology, and reliable development to create digital products that help businesses grow."
+
+items:
+
+- icon: "fas fa-palette"
+  color: "#08D3BB"
+  pretitle: "Design"
+  pretext: "Thoughtful by design"
+  title: "**Beautiful interfaces** built around your users."
+  text: "We create clean, modern, and intuitive interfaces that represent your brand and make every interaction feel effortless."
+  image: "images/home/features/features-1.png"
+
+- icon: "fas fa-code"
+  color: "#1090CB"
+  pretitle: "Development"
+  pretext: "Built to perform"
+  title: "**Modern websites** engineered for performance."
+  text: "We build fast, responsive, and reliable websites using modern technologies and development practices."
+  image: "images/home/features/features-2.png"
+
+- icon: "fas fa-rocket"
+  color: "#9208D3"
+  pretitle: "Launch"
+  pretext: "Ready for the real world"
+  title: "**From idea to launch**, without the hassle."
+  text: "From the first concept to deployment, we help turn your ideas into polished digital products ready to reach your audience."
+  image: "images/home/features/features-3.png"

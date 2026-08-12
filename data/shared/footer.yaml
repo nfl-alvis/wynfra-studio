@@ -1,0 +1,26 @@
+enable: true
+
+contact:
+  title: "Let's work together"
+  items:
+    - label: "Have a project in mind? We'd love to hear about it."
+      link: ""
+
+    - label: "+62 896 1690 4200"
+      link: ""
+
+social:
+  - title: "Instagram"
+    icon: "fa-brands fa-instagram"
+    link: "https://www.instagram.com/wynfra.studio"
+#  - title: "LinkedIn"
+#    icon: "fa-brands fa-linkedin"
+#    link: "#"
+  - title: "Facebook"
+    icon: "fa-brands fa-facebook"
+    link: "https://www.facebook.com/share/1Ep45gti2E/"
+#  - title: "Twitter"
+#    icon: "fa-brands fa-twitter"
+#    link: "#"
+
+copyright: "© 2026 Wynfra Studio. All rights reserved."
